@@ -12,6 +12,6 @@ List of courses completed from datacamp througout the semester of Spring 2022:
 8) Unsupervised Learning in Python
 
 
-List of track(s) completed from datacamp througout the semester of Spring 2022:
+List of tracks(a collection of relevant courses) completed from datacamp througout the semester of Spring 2022:
 
 1) Importing & Cleaning Data with Python
