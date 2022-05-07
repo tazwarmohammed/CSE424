@@ -1,2 +1,2 @@
 # CSE424
-Pattern Recognition
+Pattern Recognition, Brac University
